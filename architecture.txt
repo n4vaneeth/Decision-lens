@@ -4,7 +4,7 @@ Structure Agent
   - criteria
   - cost/benefit
   - ordinal scales
-  - numeric facts
+  - numeric facts  
  ↓
 Attribute Mapper
   - descriptors → ordinals
