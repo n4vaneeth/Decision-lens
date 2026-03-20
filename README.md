@@ -1,4 +1,3 @@
-# Decision-lenss
 # Decision-Lens
 
 ## Understanding of the Problem
