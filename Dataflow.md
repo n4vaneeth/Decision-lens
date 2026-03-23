@@ -25,7 +25,7 @@ graph TD
     ExplAgent -- "Natural Language Explanation" --> Main
     
     Main -- "Final Ranking & Explanation" --> User
-```
+```   
 
 ## Flow Description
 
